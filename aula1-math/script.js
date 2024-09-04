@@ -34,4 +34,4 @@ const numero2 = prompt("Digite um numero")
 
 let media = (numero1 + numero2) / 2 
 
-console.log('A media é:                  ')
+console.log('A media é ${min}')
